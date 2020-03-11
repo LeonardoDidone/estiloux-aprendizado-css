@@ -1,16 +1,10 @@
 @import url('../extiloux/fontes/Inconsolata-Regular.ttf');
 
-/* Reset da pagina de propriedades */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-/* div {
-    background-color: gray;
-    color: white;
-   
-} */
 
 body {
     background-color: #efefef;
@@ -89,10 +83,7 @@ a {
     margin-right: -6px;
     margin-left: 2%;
     width: 28%;
-    /* background-color: white; */
-    /* height: 100%; */
-
-
+   
 }
 
 #lapis {
